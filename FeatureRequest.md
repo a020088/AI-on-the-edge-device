@@ -7,7 +7,13 @@
 2. Who ever has time, capacity and passion to support, can take any of the ideas and implement them. 
    I will support and help where ever I can!
    
-   
+
+#### #11 log main screen as an image
+
+* it would be nice to have the mainscreen stored as an jpg image to 
+* get accessed via IP. It should always have the same name but updated
+* continously. I would like to insert this image in my browserapplication
+* of my home control system.
 
 ____
 
